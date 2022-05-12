@@ -14,3 +14,8 @@ source_metadata:
       parent: Prajñāpāramitā
 created_at: '2022-03-01T01:02:04.201562'
 last_modified_at: '2022-03-01T01:02:04.201565'
+statistics:
+  total_words: 1625
+  total_non_words: 143
+quality:
+  non_words_ratio: 0.09
